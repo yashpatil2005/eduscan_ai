@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "762311294844",
+    "project_id": "eduscan-ai-cee70",
+    "storage_bucket": "eduscan-ai-cee70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762311294844:android:4642d11cf733e6438ceef9",
+        "android_client_info": {
+          "package_name": "com.example.eduscan_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762311294844-nc7hqjqhbin7dhto04hsq4adleu8hcmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eduscan_ai",
+            "certificate_hash": "a9a1768f9daf09215a521431720ad9deae024bf3"
+          }
+        },
+        {
+          "client_id": "762311294844-ugan32qb9kcreeih60q1r01eapfbsql6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eduscan_ai",
+            "certificate_hash": "7c825a2937f5b600c9158eeec9d97f6c19cea50b"
+          }
+        },
+        {
+          "client_id": "762311294844-8h8k3nds5ga65ue7brtrieqqa95v12rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGUSjVYPqe2tAL9zQxVVAUH4U8Fkaxh-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762311294844-8h8k3nds5ga65ue7brtrieqqa95v12rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

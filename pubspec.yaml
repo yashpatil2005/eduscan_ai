@@ -1,0 +1,107 @@
+name: eduscan_ai
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  cupertino_icons: ^1.0.8
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.17.9
+  google_sign_in: ^6.2.1
+  image_picker: ^1.0.4
+  path: ^1.8.3
+  flutter_image_compress: ^2.1.0
+  path_provider: ^2.1.1
+  carousel_slider: ^4.2.1
+  image: ^4.1.3
+  pdf: ^3.10.4
+  connectivity_plus: ^5.0.2
+  url_launcher: ^6.2.5
+  flutter_pdfview: ^1.3.1
+  file_selector: ^1.0.3
+  camera: ^0.10.5+5
+  permission_handler: ^11.3.1
+  http: ^1.4.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  cloud_firestore: ^4.15.8
+  firebase_storage: ^11.6.9
+  uuid: ^4.3.3
+  intl: ^0.18.1 
+  googleapis: ^13.1.0
+  googleapis_auth: ^1.4.1
+  flutter_markdown: ^0.7.1
+  photo_view: ^0.14.0
+  table_calendar: ^3.0.9
+  flutter_local_notifications: ^17.0.0
+  share_plus: ^7.2.2
+  flutter_staggered_grid_view: ^0.7.0
+  palette_generator: ^0.3.3
+  cached_network_image: ^3.3.1
+  flutter_card_swiper: ^6.0.0
+  dotted_border: ^2.1.0
+  smooth_page_indicator: ^1.1.0
+  shared_preferences: ^2.2.2
+  
+
+
+
+  
+
+
+  
+  
+
+
+  
+
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.6
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.png
+    - assets/images/add_notes_illustration.png
+    - assets/images/todo.png
+    - assets/images/timetable.png
+    - assets/images/moretools.png
+    - assets/images/google_logo.png
+    - assets/images/concept_diagram.png
+    - assets/images/flash_card.png
+    - assets/images/journal_image.png
+    - assets/images/ask_sakhi_avatar.png
+    - assets/images/ask_sakhi_avatar1.gif
+    - assets/loading_screen.mp4
+    - assets/icon.png
+    - assets/images/discover_image.png
+    - assets/legal/privacy.md
+    - assets/legal/terms.md
+    - assets/images/loading.gif
+    - assets/images/dloading.gif
+    - assets/images/illustration.png
+
