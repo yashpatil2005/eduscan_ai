@@ -14,7 +14,7 @@ Eduscan AI helps students study smarter by converting physical notes into digita
 
 ## 📥 Download
 
-[**Download Latest APK**](https://github.com/YOUR_USERNAME/eduscan_ai/releases)
+[**Download Latest APK**](https://github.com/yashpatil2005/eduscan_ai/releases)
 *check the releases tab for the latest `app-release.apk`*
 
 ## 🛠️ Tech Stack
@@ -37,7 +37,7 @@ Eduscan AI helps students study smarter by converting physical notes into digita
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/eduscan_ai.git
+    git clone https://github.com/yashpatil2005/eduscan_ai.git
     cd eduscan_ai
     ```
 
