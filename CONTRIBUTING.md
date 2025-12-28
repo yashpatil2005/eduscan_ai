@@ -5,7 +5,7 @@ Thank you for your interest in contributing to Eduscan AI! We welcome contributi
 ## How to Contribute
 
 1.  **Fork the repository**: Click the "Fork" button at the top right of this page.
-2.  **Clone your fork**: `git clone https://github.com/YOUR_USERNAME/eduscan_ai.git`
+2.  **Clone your fork**: `git clone https://github.com/yashpatil2005/eduscan_ai.git`
 3.  **Create a branch**: `git checkout -b feature/your-feature-name`
 4.  **Make your changes**: Implement your feature or fix a bug.
 5.  **Commit your changes**: `git commit -m "Add some feature"`
