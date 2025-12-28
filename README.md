@@ -2,6 +2,10 @@
 
 **An AI-powered educational productivity app built with Flutter and Python.**
 
+
+<img width="744" height="746" alt="image" src="https://github.com/user-attachments/assets/9268f33e-a5da-4752-844e-e29ab581e333" />
+
+
 Eduscan AI helps students study smarter by converting physical notes into digital insights. It features OCR, AI summarization, flashcard generation, and an AI chat assistant.
 
 ## ✨ Features
